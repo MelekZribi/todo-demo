@@ -11,3 +11,6 @@ def afficher():
 
 ajouter("Apprendre Git")
 afficher()
+ajouter("Apprendre Git")
+ajouter("Faire la démo")
+afficher()
